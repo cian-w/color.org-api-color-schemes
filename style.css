@@ -1,0 +1,102 @@
+.container {
+  position: relative;
+  margin:auto;
+}
+
+.header {
+  position: relative;
+  margin: auto;
+  width: 70%;
+  height: 200px;
+  background-color:rgba(87, 87, 87, 0.88);
+}
+
+.left-sidebar {
+  position: absolute;
+  top:218px;
+  left: 15%;
+  background-color: rgb(56, 56, 56);
+  width: 15%;
+  height: 400px;
+}
+
+.right-sidebar {
+  position: absolute;
+  top: 218px;
+  left: 70%;
+  background-color: rgb(152, 156, 164);
+  height: 600px;
+  width: 15%;
+}
+
+.main {
+  position: absolute;
+  left: 30%;
+  top: 218px;
+  width: 40%;
+  height: 700px;
+  background-color: rgb(187, 183, 187);
+}
+
+body {
+  background-color: rgb(45, 39, 39);
+}
+
+
+
+.headerhexcode {
+  position: relative;
+  top: 20px;
+  left: 435px;
+  width: 90px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  text-align: center;
+}
+
+.lefthexcode {
+  position: relative;
+  top: 20px;
+  left: 55px;
+  width: 90px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  text-align: center;
+}
+
+.bodyhexcode{
+  position: relative;
+  top: -10px;
+  left: 1155px;
+  width: 90px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  text-align: center;
+}
+
+
+.mainhexcode {
+  position: relative;
+  top: 20px;
+  left: 40%;
+  width: 90px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  text-align: center;
+}
+.righthexcode {
+  position: relative;
+  top: 20px;
+  left: 55px;
+  width: 90px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  text-align: center;
+}
+
+h1 {
+  position: relative;
+  left: 43%;
+  top: 20px;
+  color:white;
+}
